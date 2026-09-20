@@ -17,8 +17,8 @@ currently focusing on autonomous driving, artificial intelligence and automotive
 ### 💻 Technical Skills
 
 **Programming**
-- C++
-- Python
+- C++-foundational
+- Python-beginner
 
 **AI & Autonomous Driving**
 - Deep Learning
